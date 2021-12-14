@@ -9,7 +9,7 @@ This program compiles a yaml-like text file into folders, which can then be inte
  1
 2
 ```
-the above file will produce the directory structure that looks like the following
+the above file will produce a directory structure that looks like the following
 ```json
 [
     [
