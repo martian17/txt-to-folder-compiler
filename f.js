@@ -58,7 +58,7 @@ let main = async function(){
     let fname = process.argv[2];
     let dest = process.argv[3] || "a.out";
     if(!fname){
-        console.log("usage: node f.js fname [optional:dest]");
+        console.log("node f.js source_name [optional:dest_name]");
         process.exit(1);
     }
     
