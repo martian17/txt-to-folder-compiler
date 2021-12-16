@@ -1,0 +1,16 @@
+int a = 1;
+int b = 1;
+while(a < 20){
+    a = a + b;
+    int c = a;
+    a = b;
+    b = c;
+    print(a);
+}
+
+
+/*
+
+comment
+
+*/
